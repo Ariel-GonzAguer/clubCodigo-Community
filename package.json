@@ -1,0 +1,16 @@
+{
+  "name": "evento1",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "esbuild-jest": "^0.5.0",
+    "jest": "^27.5.1"
+  },
+  "description": "ejemplo code review para evento1 de codigo club Community",
+  "main": "codeReview.js",
+  "author": "Ariel GonzAgüer",
+  "license": "ISC"
+}
