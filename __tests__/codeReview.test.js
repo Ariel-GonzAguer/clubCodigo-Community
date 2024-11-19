@@ -1,4 +1,4 @@
-import { calcularDescuento } from "../codeReview.js";
+import { calcularDescuento } from "../revisionDeCodigo.js";
 
 describe("calcularDescuento", () => {
   test("debería lanzar un error si no se proporciona el precio o el descuento", () => {
