@@ -22,7 +22,7 @@ let precioFinal = calcularDescuento1(precio1, descuento1);
 console.log("Final precio1: $" + precioFinal);
 
 /*
-Aspectos a evaluar durante la revisón de código:
+Aspectos a evaluar durante la revisión de código:
 1. Funcionalidad
     Pregunta: ¿La función calcula correctamente el descuento?
     Sí, pero podrían probarse más casos límite, como un descuento de 0%, 100%, o valores negativos. ¿qué pasaría en esos casos? Retorna undefined, lo cual no es muy útil.
@@ -35,7 +35,7 @@ Aspectos a evaluar durante la revisón de código:
     El valor devuelto se formatea con .toFixed(2) para obtener solo 2 decimales, pero esta función devuelve una cadena, lo que podría causar errores si se espera un número. ¿cómo podríamos convertirlo a un número manteniendo el uso de .toFixed()?
 
 4. Manejo de errores
-    USar console.log para mensajes de error no es lo más adecuado. Podemos lanzar un error o devolver un valor más explícito. Ejemplo:
+    USar console.log para mensajes de error no es lo más adecuado. Podemos lanzar un error o devolver un valor más explícito. Incluso podemos usar console.error()Ejemplo:
 
     if (descuento < 0 || descuento > 100) {
         throw new Error("El descuento debe estar entre 0 y 100.");
