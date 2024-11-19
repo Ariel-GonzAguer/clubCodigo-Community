@@ -1,6 +1,6 @@
 # Revisión de código - Código Club - Community - Evento #1
 
-Este proyecto es un ejemplo de revisión de código para el priemr de la comunidad Código Club, de la plataforma Community de CodeCademy. Incluye una función para calcular el precio con descuento aplicado y pruebas unitarias para verificar su correcto funcionamiento.
+Este proyecto contiene un ejemplo de revisión de código para el evento inaugural de la comunidad Código Club, de la plataforma Community de CodeCademy. Incluye una función para calcular el precio con descuento aplicado y pruebas unitarias para verificar su correcto funcionamiento.
 
 ## Descripción
 
