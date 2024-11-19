@@ -39,14 +39,3 @@ Para ejecutar las pruebas unitarias, utiliza el siguiente comando:
 ```sh
 npm test
 ```
-
-## Estructura del Proyecto
-
-- codeReview.js: Contiene la implementación de la función calcularDescuento y un ejemplo de uso.
-- __tests__/codeReview.test.js: Contiene las pruebas unitarias para la función calcularDescuento.
-- jest.config.js: Configuración de Jest para el proyecto.
-- package.json: Archivo de configuración del proyecto, incluyendo dependencias y scripts.
-- .gitignore: Archivo para ignorar archivos y carpetas no deseadas en el repositorio.
-- README.md: Este archivo README 😅
-- LICENSE: Licencia del proyecto (MIT).
-- Dos imágenes: código a revisar y código revisado.
