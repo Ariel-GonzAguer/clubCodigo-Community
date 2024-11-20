@@ -1,0 +1,13 @@
+Club Código | Inauguración y mini taller: Revisión de código
+
+Descripción:
+Evento inaugural de Club Código, dónde daremos el primer paso para crear un espacio en español dentro de Commnunity. Vamos a conocernos y aprender un poco. Habrá un mini taller sobre Revisión de código, un tema que aplica para cualquier carrera o tecnología.
+
+Cronograma:
+- Introducción y bienvenida -> 15 minutos.
+- Juego trivia: CodeCademy y español -> 15 minutos.
+- Mini taller: Introducción a Revisión de código/Code Review -> 15 minutos.
+- Preguntas e ideas -> 10 minutos.
+- Cierre del evento -> 5 minutos.
+
+#español #codeReview #spanish #revisionDeCodigo #clubCódigo #club #codigo
