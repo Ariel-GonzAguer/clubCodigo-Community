@@ -54,6 +54,7 @@ Aspectos a evaluar durante la revisión de código:
  * @throws {Error} Si los argumentos no son números.
  * @throws {Error} Si el precio es negativo.
  * @throws {Error} Si el descuento no está entre 0 y 100.
+ * @throws {Error} Si no se proporcionan los argumentos.
  */
 export function calcularDescuento(precio, descuento) {
   if (precio === undefined || descuento === undefined) {
